@@ -1,29 +1,43 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<!--
+         |          
+  /~/\  /|/~\\  //~/
+  \/_ \/ |\_/ \/ \/_  
+  
+-->
  
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }}</title>
+   <title>evlove: {{ page.title }}</title>
    <meta name="author" content="sea evlove" />
    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
 </head>
 <body>
  
-<div class="site">
-  <div class="title">
-    <a href="/">evlove</a>
+<div id="site">
+  
+  <h1 id="logo"><a href="/"><img src="/images/evlove.png" alt="evlove" /></a></h1>
+  
+  <div class="col_left">
+  {{ content }}
   </div>
   
-  {{ content }}
+  <div class="col_right">
+    {% include sidebar.html %}
+  </div>
   
-  <div class="footer">
-    <div class="contact">
-      <p>
-        see at evlove dot net
-      </p>
-    </div>
+  <div id="footer" class="quiet">
+    <span><a href="/cause.html">Cause</a><br/>contact: see at evlove dot net</span>
+  </div>
+  
 </div>
-  
+
+<p id="license"><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by-nc-nd/3.0/us/80x15.png" /></a><br/>evlove.net&trade;</p>
+
+{% include disqus.html %}
+{% include analytics.html %}
 </body>
 </html>
