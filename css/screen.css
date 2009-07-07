@@ -57,7 +57,7 @@ caption { background: #ffc; }
 
 /* layout */
 div#site { width: 808px; border: 12px dashed #6f5857; margin: 2em auto;
-  padding: 2.2em 2em 1em 1.2em; background-color: #EFD8D1;
+  padding: 2.2em 2em 1em 1.2em; background-color: #FFF2DF;
 }
 
 h1#logo {
@@ -76,11 +76,11 @@ div.col_right {
 }
 
 .sidebar_item {
-padding: 1em;
+  padding: 1em;
 }
 
 .sidebar_item h4{
-color: #D95A31;
+  color: #D95A31;
 }
 
 ul#archive {
