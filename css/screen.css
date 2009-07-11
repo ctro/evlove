@@ -79,8 +79,8 @@ div.col_right {
   padding: 1em;
 }
 
-.sidebar_item h4{
-  color: #D95A31;
+.sidebar_item img {
+border: 5px double #D95A31;
 }
 
 ul#archive {
