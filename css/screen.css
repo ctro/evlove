@@ -80,7 +80,7 @@ div.col_right {
 }
 
 .sidebar_item img {
-border: 5px double #D95A31;
+  border: 5px double #D95A31;
 }
 
 ul#archive {
@@ -88,11 +88,23 @@ ul#archive {
 }
 
 ul#archive li {
-  list-style:none; margin-bottom:1.2em; border-bottom: dotted 1px;
+  list-style:none; margin:1.2em; border-bottom: dotted 1px;
 }
 
-ul#archive li span {
-  color: #666; margin-right:1.2em;
+ul#archive li a {
+  font-size: 3.3em; color: #D95A31;
+}
+
+ul#archive li a:hover {
+  color: #D48618
+}
+
+h2#title {
+  text-align:center; border-bottom:3px dotted; margin-bottom: 1.2em;
+}
+
+div#post {
+  margin-left: 1.2em;
 }
 
 div#related {
