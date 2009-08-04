@@ -1,0 +1,20 @@
+---
+layout: post
+title: less
+---
+
+![Less](/images/less_web.png)
+
+Less is not more.  Less is less, as it should be.
+
+Less is an ideal, a simplification.
+
+* Less things
+* Less want
+* Less worry
+* Less noise
+* Less money
+* Less need
+* Less complication
+
+To simplify is to evlove.
