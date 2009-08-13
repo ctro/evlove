@@ -56,12 +56,12 @@ caption { background: #ffc; }
 .highlight { background: #ffc; }
 
 /* layout */
-div#site { width: 808px; border: 12px dashed #6f5857; margin: 2em auto;
-  padding: 2.2em 2em 1em 1.2em; background-color: #FFF2DF;
+div#site { width: 808px; border-left: 33px dotted #6f5857; margin: 2em auto;
+  padding: 2.2em 2em 2em 1.2em; background-color: #FFF2DF;
 }
 
 h1#logo {
-  margin-left:1em; margin-bottom:.66em;
+  margin-left:1em;
 }
 
 h2#title {
@@ -69,7 +69,7 @@ h2#title {
 }
 
 div.col_left {
-  width: 66%; float:left;
+  width: 66%; float:left; margin-left:3em;
 }
 div.col_right {
   width:33%; text-align:center; float:right; border-left: 1px dotted;

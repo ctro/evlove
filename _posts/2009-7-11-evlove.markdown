@@ -3,9 +3,6 @@ layout: post
 title: evlove
 ---
 
-evlove is evolve spelled backwards.
+![evlove](/images/evlove.png)
 
-Though as a concept evlove moves only forward; evloving.
-
-We welcome you to evlove.net and sincerely hope that you find something worthwhile here.
-
+I think we *are* evolving, and I think love is central to it.
