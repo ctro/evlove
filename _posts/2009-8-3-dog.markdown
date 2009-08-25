@@ -6,3 +6,5 @@ title: dog
 
 Dogs are lucky.  I think they lack the consistent brain-static we usually deal with as humans.
 And, I think they're closer to the Source because of it.
+
+[Download Lineform Art](/lineform/dog.zip/)

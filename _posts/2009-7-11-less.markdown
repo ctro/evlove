@@ -6,3 +6,5 @@ title: less
 ![Less](/images/less_web.png)
 
 Less is not more.  Less is less, as it should be.  And less feels good.
+
+[Download Lineform Art](/lineform/less.zip/)
