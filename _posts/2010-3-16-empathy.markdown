@@ -1,0 +1,7 @@
+---
+layout: post
+title: empathy
+---
+![EMPATHY](/images/empathy.png)
+
+[Download Lineform Art](/lineform/empathy.zip/)

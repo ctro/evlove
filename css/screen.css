@@ -107,6 +107,8 @@ div#post {
   margin-left: 1.2em;
 }
 
+div#post p img { background-color: #fff; padding: 7px;}
+
 div#related {
   margin:1em;
   border-bottom: dotted 1px;
